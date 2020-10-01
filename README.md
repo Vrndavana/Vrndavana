@@ -2,7 +2,7 @@
 Vrndavana Hines 
 
 Software Engineer | Program Dev
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 Experienced in:
 JavaScript | Python | Postgres | Testing: Js, Python 
