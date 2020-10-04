@@ -1,11 +1,11 @@
 ### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Vrndavana Hines 
-<img src="https://drive.google.com/drive/folders/0B8d_ggvSsavoa2dOd0x4NHdrYk0" width="30px">
+<img src="https://drive.google.com/file/d/1eWqbJUFBYZnO1NdASr2hgEivT0JV39ge/view?usp=sharing" width="30px">
 Software Engineer | Program Dev
 
 
 Experienced in:
-JavaScript | Python | Postgres | Testing: Js, Python 
+JavaScript | Python | Postgres 
 
 - 🔭 I’m currently working on - Bridges To Prosperity: Building a database rendered with a map to show location contract sites
 - 👯 I’m looking to collaborate on: JS or Python srcipted programs.
