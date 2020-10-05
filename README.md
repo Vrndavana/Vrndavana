@@ -14,5 +14,5 @@ JavaScript | Python | Postgres
 - 🤔 I’m looking for help with: Any problems within my grasp of databases, design, using interface planning, and more all within a JS or Python suited production.
 - 📫 How to reach me: Vrndavana.th@gmail.com
 - ⚡ Fun fact: I'm a lefty!
-
-LinkedIn - <a href="https://www.linkedin.com/in/vrndavana-hines-3a4329176/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+- <a href="https://www.linkedin.com/in/vrndavana-hines-3a4329176/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+LinkedIn 
