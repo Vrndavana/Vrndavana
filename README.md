@@ -2,7 +2,7 @@
 Vrndavana Hines 
 
 Software Engineer | Program Dev
-
+<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
 
 Experienced in:
 JavaScript | Python | Postgres 
