@@ -1,6 +1,6 @@
 ### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Vrndavana Hines 
-<img src="imgs/banner.png"
+<img src="Imgs/Github banner.png"
      alt="Banner"
      style="float: left; margin-right: 10px;" />
 Software Engineer | Program Dev
