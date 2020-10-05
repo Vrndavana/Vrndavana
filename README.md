@@ -2,9 +2,9 @@
      alt="Banner"
      style="float: left; margin-right: 10px;" />
      
-     
-     
-Software Engineer | Program Dev
+
+Software Engineer - Program Dev
+JavaScript | Python | Postgres 
 
 Experienced in:
 JavaScript | Python | Postgres 
@@ -16,3 +16,10 @@ JavaScript | Python | Postgres
 - ⚡ Fun fact: I'm a lefty!
 - <a href="https://www.linkedin.com/in/vrndavana-hines-3a4329176/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 LinkedIn 
+
+
+Sound Engineer - Audio Dev
+Ableton | Protools | FLS | Reason
+
+Content Producer - Video Editor
+Devinci Resolve | YR Media | Lotis Films
