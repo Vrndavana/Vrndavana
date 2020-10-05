@@ -1,6 +1,8 @@
 ### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Vrndavana Hines 
-
+<img src="imgs/banner.png"
+     alt="Banner"
+     style="float: left; margin-right: 10px;" />
 Software Engineer | Program Dev
 <a href="https://www.linkedin.com/in/vrndavana-hines-3a4329176/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
