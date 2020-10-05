@@ -22,6 +22,8 @@ Sound Engineer - Audio Dev
 
 Ableton | Protools | FLS | Reason
 
+
+
 Content Producer - Video Editor
 
 Devinci Resolve | YR Media | Lotis Films
