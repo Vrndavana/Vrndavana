@@ -32,4 +32,4 @@ LinkedIn
 - LinkedIn: https://www.linkedin.com/in/vrndavana-hines/
 
 <h1> Portfolio </h1> 
-- Portfolio: Vrndavanahines.com
+- Portfolio: Vrndavanahines.com (Under Construction)
