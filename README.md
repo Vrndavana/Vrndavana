@@ -1,6 +1,4 @@
-<img src="Imgs/Github banner.png"
-     alt="Banner"
-     style="float: left; margin-right: 10px;" />
+
      
 <h1> Software </h1>
 Software Engineer - Program Dev
